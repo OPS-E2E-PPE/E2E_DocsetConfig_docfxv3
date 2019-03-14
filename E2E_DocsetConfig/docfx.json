@@ -30,10 +30,7 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {
-      "breadcrumb_path": "/E2E_DocsetConfig/breadcrumb/toc.json",
-      "extendBreadcrumb": true
-    },
+    "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsetConfig"
